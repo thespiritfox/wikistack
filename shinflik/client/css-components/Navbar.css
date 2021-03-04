@@ -1,0 +1,51 @@
+.navbar {
+	background-color: black;
+	height: 100px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.navLogo {
+	height: 90px;
+	width: 190px;
+	margin-left: 40px;
+	display: flex;
+	float: left;
+}
+
+.barLink {
+	color: white;
+	float: left;
+	font-family: Muli, sans-serif;
+	text-decoration: none;
+	margin-left: 25px;
+	letter-spacing: 0.75px;
+	position: relative;
+	top: 40%;
+}
+
+.barLink:hover {
+	color: #992568;
+}
+
+.barLink2 {
+	color: grey;
+	float: right;
+	font-family: Muli, sans-serif;
+	text-decoration: none;
+	letter-spacing: 0.75px;
+	margin-right: 25px;
+	position: relative;
+	top: 40%;
+}
+
+.barLink2:hover {
+	color: whitesmoke;
+}
+
+.searchIcon {
+	float: right;
+	position: relative;
+	top: 20%;
+	margin-right: 30px;
+}

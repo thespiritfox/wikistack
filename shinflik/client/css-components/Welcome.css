@@ -1,0 +1,12 @@
+.welcome {
+    font-family: Cabin Bold, sans-serif;
+    font-size: 1.6rem;
+    color: #992568;
+    letter-spacing: 1.2px;
+    float: left;
+}
+
+.welcome-header {
+    margin-left: 75px;
+    display: block;
+}
